@@ -1,3 +1,7 @@
+
+# This is Log file exercise
+
+
 ##"jarceo.extern.ucsd.edu"
 
 # for line in opening_file:
