@@ -1,6 +1,6 @@
 
 # This is Log file exercise
-
+#added line no 3
 
 ##"jarceo.extern.ucsd.edu"
 
